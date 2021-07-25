@@ -1,0 +1,9 @@
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\bin\Debug\Bowling.Spec.dll
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\bin\Debug\Bowling.Spec.pdb
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\bin\Debug\Bowling.Model.dll
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\bin\Debug\Bowling.Model.pdb
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\obj\Debug\Bowling.Domain.Spec.csproj.AssemblyReference.cache
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\obj\Debug\Bowling.Domain.Spec.csproj.CoreCompileInputs.cache
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\obj\Debug\Bowling.Domain.Spec.csproj.CopyComplete
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\obj\Debug\Bowling.Spec.dll
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Spec\obj\Debug\Bowling.Spec.pdb

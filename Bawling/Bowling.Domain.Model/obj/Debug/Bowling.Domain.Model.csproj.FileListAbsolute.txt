@@ -1,0 +1,6 @@
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Model\bin\Debug\Bowling.Model.dll
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Model\bin\Debug\Bowling.Model.pdb
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Model\obj\Debug\Bowling.Domain.Model.csproj.AssemblyReference.cache
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Model\obj\Debug\Bowling.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Model\obj\Debug\Bowling.Model.dll
+C:\Users\samke\OneDrive\Desktop\Assigment\Question\Question\Bowling-master\Bowling-master\Bowling.Domain.Model\obj\Debug\Bowling.Model.pdb
